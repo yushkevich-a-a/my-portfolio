@@ -23,4 +23,9 @@ ____
 
 ## Профессиональный в Web
 
-  ### Технический стек:
+### Технические навыки:
+
+    * Языки программирования: JavaScript, TypeScript(использовал для знакомства с этой надстройкой), php(в процессе изучения);
+    * Фреймворки: Jest, Puppeteer;
+    * Библиотеки: React, React Router, React Context, React redux + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment, date-fns;
+    * Технологии: HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch), npm, yarn, контроль версий git
