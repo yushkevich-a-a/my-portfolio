@@ -116,6 +116,8 @@ ____
     20. Итоговый проект. Организация постов (сервер включен, развернут на Heroku в бесплатной версии)
         - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
         - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+
+        - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
 **Используемые технологии и инструменты:** ООП, наследование, Webpack & loaders, JS, обработка событий, html, css, babel, eslint, jest, git, npm, DnD, SSE, Websockets, animations, geolocation, notification, media, WebWorkers, ServiceWorkers.
 
 
