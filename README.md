@@ -58,9 +58,60 @@ ____
     1. Написана простенькая игра 
         - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
         - [результат](https://yushkevich-a-a.github.io/goblin_game/);
-    2. Написана простенькая игра 
-        - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
-        - [результат](https://yushkevich-a-a.github.io/goblin_game/);
+    2. TODO лист
+        - [репозиторий](https://github.com/Yushkevich-A-A/top_tasks);
+        - [результат](https://yushkevich-a-a.github.io/top_tasks/);
+    3. Галерея изображений (изображение добавляется по ссылке)
+        - [репозиторий](https://github.com/Yushkevich-A-A/image_gallery);
+        - [результат](https://yushkevich-a-a.github.io/image_gallery/);
+    4. Валидатор банковских карт (с использованием тестирования введенных карт)
+        - [репозиторий](https://github.com/Yushkevich-A-A/credit_card_validation);
+        - [результат](https://github.com/Yushkevich-A-A/credit_card_validation);
+    5. Всплывающая подсказка
+        - [репозиторий](https://github.com/Yushkevich-A-A/popovers);
+        - [результат](https://yushkevich-a-a.github.io/popovers/);
+    6. Список с возможностью редактирования строки
+        - [репозиторий](https://github.com/Yushkevich-A-A/list_editor);
+        - [результат](https://yushkevich-a-a.github.io/list_editor/);
+    7.  Форма поиска билетов (Создание календаря)
+        - [репозиторий](https://github.com/Yushkevich-A-A/trip_calendar);
+        - [результат](https://yushkevich-a-a.github.io/trip_calendar/);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
+    4. null
+        - [репозиторий](null);
+        - [результат](null);
 
 
 
@@ -70,6 +121,15 @@ ____
 
 
 
+    
+
+
+
+
+
+
+
+____
         - [сертификат](null)
 
 **Используемые технологии и инструменты:** null.
