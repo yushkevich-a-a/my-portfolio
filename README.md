@@ -106,7 +106,14 @@ ____
     17. Приложение обмена сообщениями технологией Polling. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
         - [репозиторий](https://github.com/Yushkevich-A-A/post_with_comments_client);
         - [результат](https://yushkevich-a-a.github.io/post_with_comments_client/);
-    18. Итоговый проект. Организация постов (сервер включен, развернут на Heroku в бесплатной версии)
+    18. Считалка Hash (использование ВебВоркера)
+        - [репозиторий](https://github.com/Yushkevich-A-A/hasher);
+        - [результат](https://yushkevich-a-a.github.io/hasher/);
+    19. Использование СервисВоркера(сервер включен, развернут на Heroku в бесплатной версии)
+        - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
+        - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+
+    20. Итоговый проект. Организация постов (сервер включен, развернут на Heroku в бесплатной версии)
         - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
         - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
 
