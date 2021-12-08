@@ -58,7 +58,7 @@ ____
     1. Написана простенькая игра 
         - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
         - [результат](https://yushkevich-a-a.github.io/goblin_game/);
-    1. Написана простенькая игра 
+    2. Написана простенькая игра 
         - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
         - [результат](https://yushkevich-a-a.github.io/goblin_game/);
 
