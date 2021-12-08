@@ -142,6 +142,38 @@ ____
     1. Отрисовка календаря компонентами (библиотека Moment.js использована)
     - [репозиторий](https://github.com/Yushkevich-A-A/calendar);
     - [результат](https://yushkevich-a-a.github.io/calendar/);
+    2. Фильтры Портфолио
+    - [репозиторий](https://github.com/Yushkevich-A-A/event-state-filter);
+    - [результат](https://yushkevich-a-a.github.io/event-state-filter/);
+    3. Выпадающий список
+    - [репозиторий](https://github.com/Yushkevich-A-A/dropdown);
+    - [результат](https://yushkevich-a-a.github.io/dropdown/);
+    4. Список товаров
+    - [репозиторий](https://github.com/Yushkevich-A-A/listing);
+    - [результат](https://yushkevich-a-a.github.io/listing/);
+    5. Отрисовка Чата
+    - [репозиторий](https://github.com/Yushkevich-A-A/props_chat);
+    - [результат](https://yushkevich-a-a.github.io/props_chat/);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         - [сертификат](null)
 
