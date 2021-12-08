@@ -22,10 +22,10 @@ ____
 
 ## Технические навыки:
 
-* Языки программирования: JavaScript, TypeScript(использовал для знакомства с этой надстройкой), php(в процессе изучения);
-* Фреймворки: Jest, Puppeteer;
-* Библиотеки: React, React Router, React Context, React redux + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment, date-fns;
-* Технологии: HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch), npm, yarn, контроль версий git
+* **Языки программирования:** JavaScript, TypeScript(использовал для знакомства с этой надстройкой), php(в процессе изучения);
+* **Фреймворки:** Jest, Puppeteer;
+* **Библиотеки:** React, React Router, React Context, React redux + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment, date-fns;
+* **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch), npm, yarn, контроль версий git
 
 ____
 
@@ -35,7 +35,11 @@ ____
 * 2020-2022,  учебные проекты на курсе "Web-разработчик с нуля" в Нетологии.
 (https://netology.ru/programs/web-developer#/): 
 
-    - Верстка статичных HTML страниц и стилизация на CSS [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma)
+    - Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
+        - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma)
+        - [результат](https://yushkevich-a-a.github.io/mq-diploma/)
+    **Используемые технологии и инструменты:** HTML, CSS, адаптивный CSS, резиновый CSS.
+
 
     - 
 
