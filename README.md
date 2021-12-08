@@ -56,68 +56,68 @@ ____
 
 3. Изучение продвинутого JS в браузере. По результату было изучено: настройка рабочего окружения, работа с событиями, перехват и прерывание событий, работа с формами, работа с технологией DnD, работа с HTTP, работа с SSE и Websocket, работа с анимациями, работа с геолокацией/уведомлениями/медиа (камера и микрофон), знакомство с RXjs, работа WebWorkers и ServiceWorkers
     1. Написана простенькая игра 
-        - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
-        - [результат](https://yushkevich-a-a.github.io/goblin_game/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
+    - [результат](https://yushkevich-a-a.github.io/goblin_game/);
     2. TODO лист
-        - [репозиторий](https://github.com/Yushkevich-A-A/top_tasks);
-        - [результат](https://yushkevich-a-a.github.io/top_tasks/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/top_tasks);
+    - [результат](https://yushkevich-a-a.github.io/top_tasks/);
     3. Галерея изображений (изображение добавляется по ссылке)
-        - [репозиторий](https://github.com/Yushkevich-A-A/image_gallery);
-        - [результат](https://yushkevich-a-a.github.io/image_gallery/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/image_gallery);
+    - [результат](https://yushkevich-a-a.github.io/image_gallery/);
     4. Валидатор банковских карт (с использованием тестирования введенных карт)
-        - [репозиторий](https://github.com/Yushkevich-A-A/credit_card_validation);
-        - [результат](https://github.com/Yushkevich-A-A/credit_card_validation);
+    - [репозиторий](https://github.com/Yushkevich-A-A/credit_card_validation);
+    - [результат](https://github.com/Yushkevich-A-A/credit_card_validation);
     5. Всплывающая подсказка
-        - [репозиторий](https://github.com/Yushkevich-A-A/popovers);
-        - [результат](https://yushkevich-a-a.github.io/popovers/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/popovers);
+    - [результат](https://yushkevich-a-a.github.io/popovers/);
     6. Список с возможностью редактирования строки
-        - [репозиторий](https://github.com/Yushkevich-A-A/list_editor);
-        - [результат](https://yushkevich-a-a.github.io/list_editor/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/list_editor);
+    - [результат](https://yushkevich-a-a.github.io/list_editor/);
     7.  Форма поиска билетов (Создание календаря)
-        - [репозиторий](https://github.com/Yushkevich-A-A/trip_calendar);
-        - [результат](https://yushkevich-a-a.github.io/trip_calendar/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/trip_calendar);
+    - [результат](https://yushkevich-a-a.github.io/trip_calendar/);
     8. Галерея изображений с возможностью Drad&Drop 
-        - [репозиторий](https://github.com/Yushkevich-A-A/modern_image_gallery);
-        - [результат](https://yushkevich-a-a.github.io/modern_image_gallery/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/modern_image_gallery);
+    - [результат](https://yushkevich-a-a.github.io/modern_image_gallery/);
     9. Тестовый аналог Trello (Посты можно добавлять и перетаскивать между 3-мя разными окнами)
-        - [репозиторий](https://github.com/Yushkevich-A-A/trello);
-        - [результат](https://yushkevich-a-a.github.io/trello/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/trello);
+    - [результат](https://yushkevich-a-a.github.io/trello/);
     10. Лист скачивания файлов с суммарным отображением скачанных данных
-        - [репозиторий](https://github.com/Yushkevich-A-A/download_manager);
-        - [результат](https://yushkevich-a-a.github.io/download_manager/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/download_manager);
+    - [результат](https://yushkevich-a-a.github.io/download_manager/);
     11. Менеджер загрузки и скачивания изображений (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
-        - [репозиторий](https://github.com/Yushkevich-A-A/image_manager_client);
-        - [результат](https://yushkevich-a-a.github.io/image_manager_client/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/image_manager_client);
+    - [результат](https://yushkevich-a-a.github.io/image_manager_client/);
     12. Чат (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
-        - [репозиторий](https://github.com/Yushkevich-A-A/chat);
-        - [результат](https://yushkevich-a-a.github.io/chat/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/chat);
+    - [результат](https://yushkevich-a-a.github.io/chat/);
     13. Управление облачными серверами. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
-        - [репозиторий](https://github.com/Yushkevich-A-A/cloud_dashboard_client);
-        - [результат](https://yushkevich-a-a.github.io/cloud_dashboard_client/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/cloud_dashboard_client);
+    - [результат](https://yushkevich-a-a.github.io/cloud_dashboard_client/);
     14. Онлайн репортаж на SSE. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
-        - [репозиторий](https://github.com/Yushkevich-A-A/online_reportage_client);
-        - [результат](https://yushkevich-a-a.github.io/online_reportage_client/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/online_reportage_client);
+    - [результат](https://yushkevich-a-a.github.io/online_reportage_client/);
     15. Анимации
-        - [репозиторий](https://github.com/Yushkevich-A-A/animation_homework);
-        - [результат](https://yushkevich-a-a.github.io/animation_homework/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/animation_homework);
+    - [результат](https://yushkevich-a-a.github.io/animation_homework/);
     16. Блокнот с возможностью добавления видео, фото, аудио, геолокацией и уведомления
-        - [репозиторий](https://github.com/Yushkevich-A-A/media);
-        - [результат](https://yushkevich-a-a.github.io/media/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/media);
+    - [результат](https://yushkevich-a-a.github.io/media/);
     17. Приложение обмена сообщениями технологией Polling. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
-        - [репозиторий](https://github.com/Yushkevich-A-A/post_with_comments_client);
-        - [результат](https://yushkevich-a-a.github.io/post_with_comments_client/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/post_with_comments_client);
+    - [результат](https://yushkevich-a-a.github.io/post_with_comments_client/);
     18. Считалка Hash (использование ВебВоркера)
-        - [репозиторий](https://github.com/Yushkevich-A-A/hasher);
-        - [результат](https://yushkevich-a-a.github.io/hasher/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/hasher);
+    - [результат](https://yushkevich-a-a.github.io/hasher/);
     19. Использование СервисВоркера(сервер включен, развернут на Heroku в бесплатной версии)
-        - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
-        - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
+    - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
 
     20. Итоговый проект. Организация постов (сервер включен, развернут на Heroku в бесплатной версии)
-        - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
-        - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
+    - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
 
-    - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
+        - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
 **Используемые технологии и инструменты:** ООП, наследование, Webpack & loaders, JS, обработка событий, html, css, babel, eslint, jest, git, npm, DnD, SSE, Websockets, animations, geolocation, notification, media, WebWorkers, ServiceWorkers.
 
 
