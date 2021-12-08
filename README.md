@@ -35,21 +35,21 @@ ____
 * 2020-2022,  учебные проекты на курсе "Web-разработчик с нуля" в Нетологии.
 (https://netology.ru/programs/web-developer#/): 
 
-    - Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
-        - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma);
-        - [результат](https://yushkevich-a-a.github.io/mq-diploma/);
-        - [сертификат HTML](https://netology.ru/backend/api/user/programs/11730/pdf_certificate)
-        - [сертификат Адаптивная и мобильная верстка](https://netology.ru/backend/api/user/programs/12464/pdf_certificate)
+1. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
+    - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma);
+    - [результат](https://yushkevich-a-a.github.io/mq-diploma/);
+    - [сертификат HTML](https://netology.ru/backend/api/user/programs/11730/pdf_certificate)
+    - [сертификат Адаптивная и мобильная верстка](https://netology.ru/backend/api/user/programs/12464/pdf_certificate)
 
 **Используемые технологии и инструменты:** HTML, CSS, адаптивный CSS, резиновый CSS, мобильная верстка.
 
-    - Изучение JS (основы, основы языка в браузере, современные возможности языка). 
-    Написана простенькая игра с возможностью сохранения результата (перым ходит пользователь)
-        - [репозиторий](https://github.com/Yushkevich-A-A/js-advanced-diploma);
-        - [результат](https://yushkevich-a-a.github.io/js-advanced-diploma/);
-        - [сертификат Основы программирования](https://netology.ru/backend/api/user/programs/14989/pdf_certificate)
-        - [сертификат Основы JS](https://netology.ru/backend/api/user/programs/16731/pdf_certificate)
-        - [сертификат Основы JS в браузере](https://netology.ru/backend/api/user/programs/17294/pdf_certificate)
-        - [сертификат Продвинутый JS в браузере](https://netology.ru/backend/api/user/programs/20124/pdf_certificate)
+2. Изучение JS (основы, основы языка в браузере, современные возможности языка). 
+Написана простенькая игра с возможностью сохранения результата (перым ходит пользователь)
+    - [репозиторий](https://github.com/Yushkevich-A-A/js-advanced-diploma);
+    - [результат](https://yushkevich-a-a.github.io/js-advanced-diploma/);
+    - [сертификат Основы программирования](https://netology.ru/backend/api/user/programs/14989/pdf_certificate)
+    - [сертификат Основы JS](https://netology.ru/backend/api/user/programs/16731/pdf_certificate)
+    - [сертификат Основы JS в браузере](https://netology.ru/backend/api/user/programs/17294/pdf_certificate)
+    - [сертификат Продвинутый JS в браузере](https://netology.ru/backend/api/user/programs/20124/pdf_certificate)
 
 **Используемые технологии и инструменты:** HTML, CSS, адаптивный CSS, резиновый CSS, мобильная верстка.
