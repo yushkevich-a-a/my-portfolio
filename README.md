@@ -138,6 +138,16 @@ ____
         - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
 **Используемые технологии и инструменты:** ООП, наследование, Webpack & loaders, JS, обработка событий, html, css, babel, eslint, jest, git, npm, DnD, SSE, Websockets, animations, geolocation, notification, media, WebWorkers, ServiceWorkers.
 
+4. Изучение React, React-Router, Redux, Redux-Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC, 
+    1. Отрисовка календаря компонентами (библиотека Moment.js использована)
+    - [репозиторий](https://github.com/Yushkevich-A-A/calendar);
+    - [результат](https://yushkevich-a-a.github.io/calendar/);
+
+        - [сертификат](null)
+
+
+**Используемые технологии и инструменты:** ООП, наследование, Webpack & loaders, JS, обработка событий, html, css, babel, eslint, jest, git, npm.
+
 
 
 
@@ -156,7 +166,5 @@ ____
 
 
 
-____
-        - [сертификат](null)
 
 **Используемые технологии и инструменты:** null.
