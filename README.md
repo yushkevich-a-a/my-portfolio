@@ -91,9 +91,27 @@ ____
     12. Чат (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
         - [репозиторий](https://github.com/Yushkevich-A-A/chat);
         - [результат](https://yushkevich-a-a.github.io/chat/);
-    4. null
+    13. Управление облачными серверами. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+        - [репозиторий](https://github.com/Yushkevich-A-A/cloud_dashboard_client);
+        - [результат](https://yushkevich-a-a.github.io/cloud_dashboard_client/);
+    14. Онлайн репортаж на SSE. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+        - [репозиторий](https://github.com/Yushkevich-A-A/online_reportage_client);
+        - [результат](https://yushkevich-a-a.github.io/online_reportage_client/);
+    15. Анимации
+        - [репозиторий](https://github.com/Yushkevich-A-A/animation_homework);
+        - [результат](https://yushkevich-a-a.github.io/animation_homework/);
+    16. Блокнот с возможностью добавления видео, фото, аудио, геолокацией и уведомления
+        - [репозиторий](https://github.com/Yushkevich-A-A/media);
+        - [результат](https://yushkevich-a-a.github.io/media/);
+    17. Приложение обмена сообщениями технологией Polling. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+        - [репозиторий](https://github.com/Yushkevich-A-A/post_with_comments_client);
+        - [результат](https://yushkevich-a-a.github.io/post_with_comments_client/);
+    18. Приложение управления проектами. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
         - [репозиторий](null);
         - [результат](null);
+    19. Итоговый проект. Организация постов (сервер включен, развернут на Heroku в бесплатной версии)
+        - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
+        - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
 
 
 
