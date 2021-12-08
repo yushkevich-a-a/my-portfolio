@@ -76,9 +76,26 @@ ____
     7.  Форма поиска билетов (Создание календаря)
         - [репозиторий](https://github.com/Yushkevich-A-A/trip_calendar);
         - [результат](https://yushkevich-a-a.github.io/trip_calendar/);
+    8. Галерея изображений с возможностью Drad&Drop 
+        - [репозиторий](https://github.com/Yushkevich-A-A/modern_image_gallery);
+        - [результат](https://yushkevich-a-a.github.io/modern_image_gallery/);
+    9. Тестовый аналог Trello (Посты можно добавлять и перетаскивать между 3-мя разными окнами)
+        - [репозиторий](https://github.com/Yushkevich-A-A/trello);
+        - [результат](https://yushkevich-a-a.github.io/trello/);
+    10. Лист скачивания файлов с суммарным отображением скачанных данных
+        - [репозиторий](https://github.com/Yushkevich-A-A/download_manager);
+        - [результат](https://yushkevich-a-a.github.io/download_manager/);
+    11. Менеджер загрузки и скачивания изображений (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+        - [репозиторий](https://github.com/Yushkevich-A-A/image_manager_client);
+        - [результат](https://yushkevich-a-a.github.io/image_manager_client/);
+    12. Чат (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+        - [репозиторий](https://github.com/Yushkevich-A-A/chat);
+        - [результат](https://yushkevich-a-a.github.io/chat/);
     4. null
         - [репозиторий](null);
         - [результат](null);
+
+
 
 
 
