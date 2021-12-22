@@ -162,8 +162,7 @@ ____
     8. Redux-saga
     - [репозиторий](https://github.com/Yushkevich-A-A/saga-main-details/tree/master/frontend/src);
 
-#### Итоговый проект на React
-
+    9. **Итоговый проект на React**
     - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
 
         - [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
