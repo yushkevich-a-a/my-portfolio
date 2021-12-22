@@ -172,6 +172,7 @@ ____
 **Используемые технологии и инструменты:** React, React-Router, Redux, Redux-Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC, git, yarn.
 
 Сейчас разрабатываю сайт (сайт в разработке, так что строго не судите)))
+ [elergo.tech](https://elergo.tech/)
 
 
 4. Сейчас изучаю PHP)))
