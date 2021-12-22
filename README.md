@@ -2,7 +2,7 @@
 
 Юшкевич Антон Алексеевич
 
-tel: +7 981 856 99 51 (WhatsUp, Viber, или просто звонок)
+tel: +7 981 856 99 51 (WhatsUp, Viber)
 
 e-mail: yushkevich.a.a@yandex.ru
 
