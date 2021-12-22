@@ -161,8 +161,9 @@ ____
     - [репозиторий](https://github.com/Yushkevich-A-A/newsfeed);
     8. Redux-saga
     - [репозиторий](https://github.com/Yushkevich-A-A/saga-main-details/tree/master/frontend/src);
-    - 
-###Итоговый проект на React
+
+### Итоговый проект на React
+
     - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
 
         - [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
@@ -170,26 +171,7 @@ ____
 
 **Используемые технологии и инструменты:** React, React-Router, Redux, Redux-Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC, git, yarn.
 
-Сейчас разрабатываю сайт. 
+Сейчас разрабатываю сайт (сайт в разработке, так что строго не судите)))
 
 
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-**Используемые технологии и инструменты:** null.
+4. Сейчас изучаю PHP)))
