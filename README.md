@@ -154,31 +154,23 @@ ____
     5. Отрисовка Чата
     - [репозиторий](https://github.com/Yushkevich-A-A/props_chat);
     - [результат](https://yushkevich-a-a.github.io/props_chat/);
+    6. Redux-thunk
+    - [репозиторий](https://github.com/Yushkevich-A-A/redux-thunk-auth);
+    - логин: Vasua пароль: password
+    7. Redux-observable
+    - [репозиторий](https://github.com/Yushkevich-A-A/newsfeed);
+    8. Redux-saga
+    - [репозиторий](https://github.com/Yushkevich-A-A/saga-main-details/tree/master/frontend/src);
+###Итоговый проект на React
+    - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
+
+        - [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
 
 
+**Используемые технологии и инструменты:** React, React-Router, Redux, Redux-Thunk, Redux Observable, Redux Saga, hooks, React Context API, HOC, git, yarn.
 
+Сейчас разрабатываю сайт. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        - [сертификат](null)
-
-
-**Используемые технологии и инструменты:** ООП, наследование, Webpack & loaders, JS, обработка событий, html, css, babel, eslint, jest, git, npm.
 
 
 
