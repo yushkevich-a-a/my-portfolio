@@ -11,29 +11,21 @@ e-mail: yushkevich.a.a@yandex.ru
 ____
 
 ## Образование 
-
-2008-2012 ФГОУ СПО Костромской Энергетический техникум "имени Ф.В.Чижова". 
-Электротехническое отделение. 
-Специальности: 
- * "Электрические станции сети и системы", 
- * "Монтаж, наладка и эксплуатация электрооборудования промышленных и гражданских зданий"
-
  2020-2022. Учебные проекты на курсе "web-разработчик с нуля" в Нетологии. 
  (https://netology.ru/programs/web-developer#/);
 ____
 
 ## Технические навыки:
 
-* **Языки программирования:** JavaScript, TypeScript(использовал для знакомства с этой надстройкой), php(в процессе изучения);
-* **Фреймворки:** Jest, Puppeteer;
-* **Библиотеки:** React, React Router, React Context, React redux + middlwears (Thunk, Observable, Saga), Rxjs, Bootstrap, Faker, Moment, date-fns;
-* **Технологии и инструменты:** HTML, CSS, Babel, esLint, WebPack, DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch), npm, yarn, контроль версий git
-
+* **Языки программирования:** JavaScript, TypeScript(), php;
+* **Стек:** :
+- HTML, CSS;
+- React, React Router, React redux;
+- Vue3, vuex;
+- 
+* **Инструменты:** Babel, esLint, WebPack, npm, yarn, git
+* **Технологии:**  DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch),
 ____
-
-## Профессиональный опыт
-
-* 2013 - по настоящее время. ООО"СЦ Телрос" Установка, настройка и интеграция систем безопасности. Видео, констроль доступа, охранная сигнилизация, пожарная сигнализация.
 
 ## Профессиональный опыт в Web
 
