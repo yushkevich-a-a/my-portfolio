@@ -45,9 +45,10 @@ ____
 - [сертификат Основы JS в браузере](https://netology.ru/backend/api/user/programs/17294/pdf_certificate)
 - [сертификат Продвинутый JS в браузере](https://netology.ru/backend/api/user/programs/20124/pdf_certificate)
 - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
-- [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
-- [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
 - [сертификат React](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
+- [Основы PHP](https://netology.ru/backend/api/user/programs/22896/pdf_certificate)
+- [Продвинутый PHP](https://netology.ru/backend/api/user/programs/25449/pdf_certificate)
+- [Фреймворк Laravel](https://netology.ru/backend/api/user/programs/25451/pdf_certificate)
 
 
 **Примеры работ:**
