@@ -55,38 +55,39 @@ ____
 
 **Примеры работ:**
 
-1. Организация постов в блокноте (сервер запущен на Heroku, первый запуск может занимать до 20сек)
+1. SPA по продаже билетов в кинотеатр + рабочее место оператора с управлением сеансами, залами, фильмами, местами в зале и билетами
+    - [репозиторий](https://github.com/Yushkevich-A-A/diploma_react_laravel)
+
+2. Организация постов в блокноте (сервер запущен на Heroku, первый запуск может занимать до 20сек)
     - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma) / [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
     
-2. Интернет магазин на react, react-router, react-redux, redux-thunk,
+3. Интернет магазин на react, react-router, react-redux, redux-thunk,
     - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
 
-3. Игра PWP с возможностью сохранения результата (перым ходит пользователь)
+4. Игра PWP с возможностью сохранения результата (перым ходит пользователь)
 
     - [репозиторий](https://github.com/Yushkevich-A-A/js-advanced-diploma) / [результат](https://yushkevich-a-a.github.io/js-advanced-diploma/);
 
-4. Написана игра "попади по гоблину"
+5. Написана игра "попади по гоблину"
     - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game) / [результат](https://yushkevich-a-a.github.io/goblin_game/);
 
-5. Управление облачными серверами. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
+6. Управление облачными серверами. (сервер был развернут на Heroku, сервер отключене, т.к. беспратные лицензии заняты другими проектами) По запросу включу, код сервера указан в репозитории.
     - [репозиторий](https://github.com/Yushkevich-A-A/cloud_dashboard_client) / [результат](https://yushkevich-a-a.github.io/cloud_dashboard_client/);
 
-6. Блокнот с возможностью добавления видео, фото, аудио, геолокацией и уведомления
+7. Блокнот с возможностью добавления видео, фото, аудио, геолокацией и уведомления
     - [репозиторий](https://github.com/Yushkevich-A-A/media) / [результат](https://yushkevich-a-a.github.io/media/);
     
-7. Валидатор банковских карт (с использованием тестирования введенных карт)
+8. Валидатор банковских карт (с использованием тестирования введенных карт)
     - [репозиторий](https://github.com/Yushkevich-A-A/credit_card_validation) / [результат](https://github.com/Yushkevich-A-A/credit_card_validation);
 
-8. Галерея изображений с возможностью Drad&Drop 
+9. Галерея изображений с возможностью Drad&Drop 
     - [репозиторий](https://github.com/Yushkevich-A-A/modern_image_gallery) / [результат](https://yushkevich-a-a.github.io/modern_image_gallery/);
 
-9. Тестовый аналог Trello (Посты можно добавлять и перетаскивать между 3-мя разными окнами)
+10. Тестовый аналог Trello (Посты можно добавлять и перетаскивать между 3-мя разными окнами)
     - [репозиторий](https://github.com/Yushkevich-A-A/trello) / [результат](https://yushkevich-a-a.github.io/trello/);
 
-10. Менеджер загрузки и скачивания изображений (сейчас соединение с сервером отключено, при необходимости включу)
+11. Менеджер загрузки и скачивания изображений (сейчас соединение с сервером отключено, при необходимости включу)
     - [репозиторий](https://github.com/Yushkevich-A-A/image_manager_client);
 
-11. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
+12. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
     - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma) / [результат](https://yushkevich-a-a.github.io/mq-diploma/);
-
-Изучение PHP,  разработка на версии 7.4+, знакомство с фреймворком laravel
