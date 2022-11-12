@@ -4,7 +4,7 @@
 
 tel: +7 981 856 99 51 (WhatsApp, Viber)
 
-telegam: @sysdba17 (предпочитаемый способ связи)
+telegam: https://t.me/sysdba17 (предпочитаемый способ связи)
 
 e-mail: yushkevich.a.a@yandex.ru
 
