@@ -37,7 +37,7 @@ ____
 * 2020 июль - 2022 август,  учебные проекты на курсе "Web-разработчик" в Нетологии.
 (https://netology.ru/programs/web-developer#/): 
 
-Сертификаты Нетологии:
+**Сертификаты Нетологии:**
 - [сертификат HTML](https://netology.ru/backend/api/user/programs/11730/pdf_certificate)
 - [сертификат Адаптивная и мобильная верстка](https://netology.ru/backend/api/user/programs/12464/pdf_certificate)
 - [сертификат Основы программирования](https://netology.ru/backend/api/user/programs/14989/pdf_certificate)
@@ -50,11 +50,10 @@ ____
 - [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
 
 
-Примеры работ:
+**Примеры работ:**
 
 20. Организация постов в блокноте
-    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma);
-    - [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma)/[результат](https://yushkevich-a-a.github.io/ahj-diploma/);
     
 9. Интернет магазин на react, react-router, react-redux, redux-thunk,
     - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
