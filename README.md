@@ -52,24 +52,21 @@ ____
 
 **Примеры работ:**
 
-20. Организация постов в блокноте
-    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma)/[результат](https://yushkevich-a-a.github.io/ahj-diploma/);
+20. Организация постов в блокноте (сервер запущен на Heroku, первый запуск может занимать до 20сек)
+    - [репозиторий](https://github.com/Yushkevich-A-A/ahj-diploma) / [результат](https://yushkevich-a-a.github.io/ahj-diploma/);
     
 9. Интернет магазин на react, react-router, react-redux, redux-thunk,
     - [репозиторий](https://github.com/Yushkevich-A-A/diploma-react-store);
 
 1. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
-    - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma);
-    - [результат](https://yushkevich-a-a.github.io/mq-diploma/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma) / [результат](https://yushkevich-a-a.github.io/mq-diploma/);
 
-2. Изучение основ JS (основы, основы языка в браузере, современные возможности языка). 
-Написана простенькая игра с возможностью сохранения результата (перым ходит пользователь)
-    - [репозиторий](https://github.com/Yushkevich-A-A/js-advanced-diploma);
-    - [результат](https://yushkevich-a-a.github.io/js-advanced-diploma/);
+2. Игра PWP с возможностью сохранения результата (перым ходит пользователь)
 
-3. Написана игра "ударь по гоблину"
-    - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game);
-    - [результат](https://yushkevich-a-a.github.io/goblin_game/);
+    - [репозиторий](https://github.com/Yushkevich-A-A/js-advanced-diploma) / [результат](https://yushkevich-a-a.github.io/js-advanced-diploma/);
+
+3. Написана игра "попади по гоблину"
+    - [репозиторий](https://github.com/Yushkevich-A-A/goblin_game) / [результат](https://yushkevich-a-a.github.io/goblin_game/);
     
 4. Валидатор банковских карт (с использованием тестирования введенных карт)
     - [репозиторий](https://github.com/Yushkevich-A-A/credit_card_validation);
