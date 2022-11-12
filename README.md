@@ -19,10 +19,10 @@ ____
 
 * **Языки программирования:** JS, TS, php;
 * **Стек:** :
-- HTML, CSS;
-- React, React Router, React redux;
-- Vue3, vuex;
-- 
+ HTML, CSS;
+ React, React Router, React redux;
+ Vue3, vuex;
+
 * **Инструменты:** Babel, esLint, WebPack, npm, yarn, git
 * **Технологии:**  DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch),
 ____
