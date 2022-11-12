@@ -50,6 +50,7 @@ ____
 - [Основы PHP](https://netology.ru/backend/api/user/programs/22896/pdf_certificate)
 - [Продвинутый PHP](https://netology.ru/backend/api/user/programs/25449/pdf_certificate)
 - [Фреймворк Laravel](https://netology.ru/backend/api/user/programs/25451/pdf_certificate)
+- [Веб-разработчик](https://netology.ru/backend/api/user/programs/12460/pdf_certificate)
 
 
 **Примеры работ:**
