@@ -4,7 +4,7 @@
 
 tel: +7 981 856 99 51 (WhatsApp, Viber)
 
-telegam: @sysdba17
+telegam: @sysdba17 (предпочитаемый способ связи)
 
 e-mail: yushkevich.a.a@yandex.ru
 
@@ -22,6 +22,7 @@ ____
     - HTML, CSS;
     - React, React Router, React redux;
     - Vue3, vuex;
+    - laravel 9;
 
 * **Инструменты:** Babel, esLint, WebPack, npm, yarn, git
 * **Технологии:**  DnD, SSE, websocket, ServiceWorkers, WebWorkers, отправка форм на сервер (xhr, fetch),
@@ -87,4 +88,4 @@ ____
 11. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
     - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma) / [результат](https://yushkevich-a-a.github.io/mq-diploma/);
 
-4. изучение PHP,  разработка на версии 7.4+, знакомство с фреймворком laravel
+Изучение PHP,  разработка на версии 7.4+, знакомство с фреймворком laravel
