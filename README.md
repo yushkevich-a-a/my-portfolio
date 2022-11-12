@@ -47,7 +47,7 @@ ____
 - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
 - [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
 - [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
-- [сертификат](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
+- [сертификат React](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
 
 
 **Примеры работ:**
