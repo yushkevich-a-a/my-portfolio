@@ -8,18 +8,14 @@ telegam: https://t.me/sysdba17 (предпочитаемый способ свя
 
 e-mail: yushkevich.a.a@yandex.ru
 
-____
 
-## Образование 
- 2020-2022. Учебные проекты на курсе "web-разработчик с нуля" в Нетологии. 
- (https://netology.ru/programs/web-developer#/);
 ____
 
 ## Технические навыки:
 
 * **Языки программирования:** JS, TS, php;
 * **Стек:**
-    - HTML, CSS;
+    - HTML, CSS, JS;
     - React, React Router, React redux;
     - Vue3, vuex;
     - laravel 9;
@@ -36,22 +32,7 @@ ____
 * 2022 январь - 2022 апрель, проектная занятость в команде dfaktor (Проект закрылся по причине всем известных событий)
 
 * 2020 июль - 2022 август,  учебные проекты на курсе "Web-разработчик" в Нетологии.
-(https://netology.ru/programs/web-developer#/): 
-
-**Сертификаты Нетологии:**
-- [сертификат HTML](https://netology.ru/backend/api/user/programs/11730/pdf_certificate)
-- [сертификат Адаптивная и мобильная верстка](https://netology.ru/backend/api/user/programs/12464/pdf_certificate)
-- [сертификат Основы программирования](https://netology.ru/backend/api/user/programs/14989/pdf_certificate)
-- [сертификат Основы JS](https://netology.ru/backend/api/user/programs/16731/pdf_certificate)
-- [сертификат Основы JS в браузере](https://netology.ru/backend/api/user/programs/17294/pdf_certificate)
-- [сертификат Продвинутый JS в браузере](https://netology.ru/backend/api/user/programs/20124/pdf_certificate)
-- [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
-- [сертификат React](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
-- [сертификат основы PHP](https://netology.ru/backend/api/user/programs/22896/pdf_certificate)
-- [сертификат продвинутый PHP](https://netology.ru/backend/api/user/programs/25449/pdf_certificate)
-- [сертификат Laravel](https://netology.ru/backend/api/user/programs/25451/pdf_certificate)
-- [сертификат веб-разработчик](https://netology.ru/backend/api/user/programs/12460/pdf_certificate)
-
+(https://netology.ru/programs/web-developer#/)
 
 **Примеры работ:**
 
@@ -91,3 +72,17 @@ ____
 
 12. Верстка адаптивного лендинга на чистом HTML и CSS. До breakpoints применяется резиновая стилизация блоков.
     - [репозиторий](https://github.com/Yushkevich-A-A/mq-diploma) / [результат](https://yushkevich-a-a.github.io/mq-diploma/);
+
+**Сертификаты Нетологии:**
+- [сертификат HTML](https://netology.ru/backend/api/user/programs/11730/pdf_certificate)
+- [сертификат Адаптивная и мобильная верстка](https://netology.ru/backend/api/user/programs/12464/pdf_certificate)
+- [сертификат Основы программирования](https://netology.ru/backend/api/user/programs/14989/pdf_certificate)
+- [сертификат Основы JS](https://netology.ru/backend/api/user/programs/16731/pdf_certificate)
+- [сертификат Основы JS в браузере](https://netology.ru/backend/api/user/programs/17294/pdf_certificate)
+- [сертификат Продвинутый JS в браузере](https://netology.ru/backend/api/user/programs/20124/pdf_certificate)
+- [сертификат Современные возможности JS](https://netology.ru/backend/api/user/programs/8056/pdf_certificate)
+- [сертификат React](https://netology.ru/backend/api/user/programs/21649/pdf_certificate)
+- [сертификат основы PHP](https://netology.ru/backend/api/user/programs/22896/pdf_certificate)
+- [сертификат продвинутый PHP](https://netology.ru/backend/api/user/programs/25449/pdf_certificate)
+- [сертификат Laravel](https://netology.ru/backend/api/user/programs/25451/pdf_certificate)
+- [сертификат веб-разработчик](https://netology.ru/backend/api/user/programs/12460/pdf_certificate)
